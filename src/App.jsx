@@ -23,7 +23,7 @@ function App() {
       <div className='w-full block'>
         <Header />
         <main>
-          {/* <Outlet />                will get it from react router dom */}
+          {/* <Outlet />                //will get it from react router dom */}
         </main>
         <Footer />
       </div>
