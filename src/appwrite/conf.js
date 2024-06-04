@@ -142,4 +142,5 @@ export class Service{
   }
 }
 
-const service = new Service()
+const appWriteservice = new Service()
+export default appWriteservice;
