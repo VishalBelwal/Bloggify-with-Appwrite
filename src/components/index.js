@@ -5,6 +5,7 @@ import Logo from "./Logo";
 import LogoutBTN from "./header/LogoutBTN";
 import Button from './Button';
 import Input from './Input';
+import RealTimeEditor from "./RTE";
 
 export {
   Header,
@@ -13,5 +14,6 @@ export {
   Logo,
   LogoutBTN,
   Button,
-  Input
+  Input,
+  RealTimeEditor
 }
