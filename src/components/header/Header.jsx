@@ -47,7 +47,7 @@ function Header() {
             </Link>
           </div>
 
-          //iske bhar unordered list hai aur iske andar ham loop lagaenge
+          {/* //iske bhar unordered list hai aur iske andar ham loop lagaenge */}
 
           <ul className='flex ml-auto'>
             {
