@@ -9,7 +9,8 @@ function App() {
   const [loading, setLoading] = useState(true)
   const dispatch = useDispatch()
 
-  //as soon as application loads useEffect starts its work
+  //as soon as application loads useEffect starts its workconf
+
   useEffect(() => {
     authService.getCurrentUser()
       .then((userData) => {
