@@ -2,7 +2,7 @@ import conf from "../config/config";
 import { Client, ID, Databases, Storage, Query } from "appwrite"
 
 export class Service{
-  client = new this.client();
+  client = new Client();
   databases;
   bucket;
 

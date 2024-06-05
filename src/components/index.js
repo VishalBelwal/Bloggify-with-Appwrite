@@ -6,6 +6,12 @@ import LogoutBTN from "./header/LogoutBTN";
 import Button from './Button';
 import Input from './Input';
 import RealTimeEditor from "./RTE";
+import Signup from "./Signup";
+import PostForm from "./PostForm/PostForm";
+import PostCard from './PostCard'
+import Protected from "./AuthLayout";
+import Select from './Select';
+import Login from './Login'
 
 export {
   Header,
@@ -15,5 +21,11 @@ export {
   LogoutBTN,
   Button,
   Input,
-  RealTimeEditor
+  RealTimeEditor,
+  Signup,
+  PostForm,
+  PostCard,
+  Protected,
+  Select,
+  Login,
 }
